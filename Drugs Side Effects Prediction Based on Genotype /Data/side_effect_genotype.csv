@@ -1,0 +1,11 @@
+Age,Gender,Height,Weight,Drug Name,Genotype,Side Effect 1,Side Effect 2,Severity
+30,Male,175,70,Aspirin,one.json,Headache,Nausea,3
+45,Female,160,65,Paracetamol,two.json,Dizziness,Liver damage,4
+55,Male,180,80,Ibuprofen,three.json,Stomach ulcers,Renal toxicity,6
+40,Female,170,60,Omeprazole,four.json,Abdominal pain,Diarrhea,2
+35,Male,168,75,Amoxicillin,five.json,Rash,Diarrhea,3
+50,Female,155,70,Metronidazole,six.json,Metallic taste,Nausea,2
+60,Male,175,85,Warfarin,seven.json,Bleeding,Bruising,8
+42,Female,163,68,Ciprofloxacin,eight.json,Tendon rupture,Joint pain,7
+38,Male,178,78,Doxycycline,nine.json,Photosensitivity,Nausea,4
+48,Female,167,63,Erythromycin,ten.json,Gastrointestinal upset,Allergic reaction,5
