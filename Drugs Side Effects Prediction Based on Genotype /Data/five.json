@@ -1,0 +1,12 @@
+{
+    "_id": "chr12:g.25398279G>A",
+    "allele1": "G",
+    "allele2": "A",
+    "chrom": "chr12",
+    "chromEnd": 25398280,
+    "chromStart": 25398279,
+    "func": "unknown",
+    "rsid": "rs2231142",
+    "snpclass": "single",
+    "strand": "+"
+}

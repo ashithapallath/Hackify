@@ -1,0 +1,12 @@
+{
+    "_id": "chr16:g.31116021G>A",
+    "allele1": "G",
+    "allele2": "A",
+    "chrom": "chr16",
+    "chromEnd": 31116022,
+    "chromStart": 31116021,
+    "func": "unknown",
+    "rsid": "rs1057910",
+    "snpclass": "single",
+    "strand": "+"
+}

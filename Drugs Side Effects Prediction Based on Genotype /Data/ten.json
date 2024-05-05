@@ -1,0 +1,12 @@
+{
+    "_id": "chr8:g.19804777T>C",
+    "allele1": "T",
+    "allele2": "C",
+    "chrom": "chr8",
+    "chromEnd": 19804778,
+    "chromStart": 19804777,
+    "func": "unknown",
+    "rsid": "rs1044149",
+    "snpclass": "single",
+    "strand": "+"
+}

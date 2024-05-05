@@ -1,0 +1,12 @@
+{
+    "_id": "chr11:g.35718688C>T",
+    "allele1": "C",
+    "allele2": "T",
+    "chrom": "chr11",
+    "chromEnd": 35718689,
+    "chromStart": 35718688,
+    "func": "unknown",
+    "rsid": "rs1799971",
+    "snpclass": "single",
+    "strand": "+"
+}
